@@ -1,0 +1,121 @@
+.topnav{
+display: flex;
+background-color: #333333;
+}
+
+.topnavjust{
+color: aliceblue;
+}
+.topnavdessert{
+color: #ff9900;
+}
+.btns{margin-left: 80%;
+display: flex;
+}
+.btnone button{
+background-color:#085394;
+color: aliceblue;
+}
+.btntwo button{
+background-color: #ff9900 ;
+}
+.midnav{
+display: flex;
+background-color: #f9cb9c;
+height: 100px;
+}
+.midnav img{
+    margin-left: 13%;
+}
+.bignavfirst img{
+max-width: 180px;
+max-height: 490px;
+display: flex;
+margin-left: 10px;
+}
+.heartbreaker img{
+height: 30px;
+width: 50px;
+display: flex;
+
+margin-left: 80%;
+margin-top: -50px;
+}
+
+.heartbreaker button{
+margin-left: 80%;
+margin-top: -200px;
+width: 0px;
+height: 0px;
+display: hidden;
+border: white;
+}
+.searchemup{
+margin-top: 25px;
+
+}
+.searchemup button{
+background-color: #085394;
+}
+.mainnav{
+background-color: #eeeeee ;
+width: 60%;
+margin-left: 0%;
+}
+.mainnav h2{
+margin-left: 37%;
+color: #085394 ;
+
+}
+.mainnav img{
+max-width: 800px;
+}
+.author{
+display: flex;
+}
+.authortitle{
+color: blue;
+}
+.sidenavpink {
+max-width: 300px;
+margin-left: 60%;
+margin-top: -50%;
+}
+.sidenavpink img{
+max-height: 230px;
+
+}
+.authortitletwo{
+color: blue;
+text-decoration: underline;
+}
+.heartbreaker2 img {
+height: 10px;
+width: 20px;
+}
+.heartbreaker2 button{
+
+    
+}
+.sidenavcreme{
+margin-left: 60%;
+margin-top: 6%;
+}
+.sidenavcreme img{
+max-height: 230px;
+}
+.authortitlethree{
+color: blue;
+text-decoration: underline;
+}
+.author3{
+display: flex;
+}
+.authortitlethree img{
+height: 10px;
+width: 20px;
+}
+.authortitlethree button{
+margin-left: -20px;
+margin-bottom: 800px;
+}
